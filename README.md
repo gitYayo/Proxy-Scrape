@@ -17,6 +17,5 @@ A simple, yet life saving tool to scrape proxies within 30 seconds.
 #Note
 > **TYPE** = (The Protocol you use).<br>
 > **TIMEOUT** = (In second intervals).<br>
-> **proxies.txt** will save to local directory!
-
-#Love you guys!
+> **proxies.txt** will save to local directory!<br>
+> If you crack it then idc its literally free :|
