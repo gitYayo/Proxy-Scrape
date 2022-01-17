@@ -14,4 +14,4 @@
 > **TYPE** = (The Protocol you use).<br>
 > **TIMEOUT** = (In second intervals).<br>
 > **proxies.txt** will save to local directory!<br>
-> If you crack it then idc its literally free :|
+> It takes two seconds to crack this script... do it and ur still not cool.
